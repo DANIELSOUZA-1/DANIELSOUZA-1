@@ -1,7 +1,7 @@
 # Daniel Antônio de Souza
 
 <p>Curso Análise e Desenvolvimento de Sistemas na IFPE
-Tecnologias: Angular 12+, TypeScript, Tailwind, Angular Material UI, Python, JavaScript</p>
+Tecnologias: Angular 15, TypeScript, TailwindCSS, Angular Material UI, Python, NestJS, JavaScript</p>
 
 
 <div align="center">
